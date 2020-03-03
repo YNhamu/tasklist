@@ -70,7 +70,7 @@ public class Tasklist {
         this.created_at = created_at;
     }
 
-    public Timestamp GetUpdated_at(){
+    public Timestamp getUpdated_at(){
         return updated_at;
     }
 
